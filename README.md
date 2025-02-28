@@ -10,7 +10,13 @@ A list of (fun) projects I have made in my spare time outside of academia. These
 
 <details>
   <summary><h3>Strange Attractors (Chaos Theory)</h3></summary>
-  Text 2
+  
+  `search_attractors()`
+  <img src = "strange_attractors Gallery/01 Search/1740757298.932288.png">
+  <img src = "strange_attractors Gallery/01 Search/1740757516.5221705.png">
+
+  `draw_attractors()`
+  <img src = "strange_attractors Gallery/01 Search/1740757298.932288.png">
 </details>
 
 <details>
@@ -22,6 +28,8 @@ A list of (fun) projects I have made in my spare time outside of academia. These
   - Used the `turtle` library to visualise the curve dynamically which enabled an intuitive representation of how the curvature evolves.
   - Adjusted tracer settings to optimise performance and ensure smooth rendering of the spiral for large numbers of iterations.
   - Experimented with different step sizes and angle increments to explore variations of the Euler spiral.
+
+  <img src = "Plots/euler_spiral.png">
 </details>
 
 <details>
@@ -34,4 +42,6 @@ A list of (fun) projects I have made in my spare time outside of academia. These
   - Varied pen width dynamically based on branch length to enhance the visual effect of depth.
   - Utilised Turtle's tracer settings to optimise rendering for large recursive depths and ensure a smoother animation.
   - Experimented with different branching angles, decay factors, and noise levels to explore a variety of fractal tree patterns.
+
+  <img src = "Plots/fractal_tree.png">
 </details>
