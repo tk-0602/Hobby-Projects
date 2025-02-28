@@ -16,7 +16,7 @@ A list of (fun) projects I have made in my spare time outside of academia. These
   <img src = "strange_attractors Gallery/01 Search/1740757516.5221705.png">
 
   `draw_attractors()`
-  <img src = "strange_attractors Gallery/01 Search/1740757298.932288.png">
+  <img src = "strange_attractors Gallery/02 Draw/1740758697.7845578.png">
 </details>
 
 <details>
